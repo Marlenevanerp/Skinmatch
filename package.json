@@ -1,0 +1,25 @@
+{
+  "name": "skinmatch",
+  "version": "1.0.0",
+  "description": "Mijn app gaat over skinproblemen. Via deze app kan je mensen vinden met dezelfde huidproblemen zoals jij zelf. De gebruiker kan advies lezen over hoe je je huis moet aanpakken en kan met mensen chatten om je ervaring te delen met elkaar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marlenevanerp/Skinmatch.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marlenevanerp/Skinmatch/issues"
+  },
+  "homepage": "https://github.com/Marlenevanerp/Skinmatch#readme",
+  "dependencies": {
+    "camelcase": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
